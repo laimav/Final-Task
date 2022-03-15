@@ -1,0 +1,32 @@
+.btn-custom {
+    border-style: solid 2px;
+    border-color: #e97077;
+}
+
+#root {
+    padding-top: 56px;
+    background-position-y: 50px;
+    background-image: linear-gradient(180deg,rgb(200,200,200) 0%,rgb(245,245,245) 310px, rgb(255,255,255) 310px)!important;
+}
+
+.top-block {
+    padding-top: 18px;
+    padding-bottom: 25px;
+}
+
+.title-line {
+    width: 100px;
+    height: 3px;
+    background-color: #e97077;
+}
+
+.container-height {
+    min-height: 37rem;
+  }
+
+.registration-form {
+    background-color: #f5f5f5;
+    padding: 35px;
+    border-radius: 5px;
+}
+

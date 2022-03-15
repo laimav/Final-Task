@@ -1,0 +1,18 @@
+.link-none {
+    color: black;
+    text-decoration: none;  
+}
+.link-none:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+.article-item {
+    background-color: #f5f5f5;
+    border: none;
+}
+
+.btn-outline-dark {
+    border-radius: 0px;
+    border-color: whitesmoke;
+}

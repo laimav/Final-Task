@@ -1,0 +1,19 @@
+.navigate-home .nav-link{
+  color: #6c757d;
+  }
+  
+.navigate-home .nav-link:hover{
+  color: #e97077;
+  } 
+
+.navbar-brand {
+  color: #e97077 !important
+}
+
+.nav-background {
+  background-color: #f5f5f5 !important;
+}
+
+.navigate-home .nav-link.active {
+  color: #e97077 !important
+}
